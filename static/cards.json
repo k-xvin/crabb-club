@@ -1,0 +1,28 @@
+{
+    "main": [
+        {
+            "title": "Prayer Machine",
+            "description": "Uses DeepAI's image generation to visualize images of the one and only. Now with sin[e].",
+            "link": "https://crabb.club/",
+            "image": "https://cdn.discordapp.com/attachments/313820457256353794/853788923616559104/church.png"
+        },
+        {
+            "title": "Prayer Machine 2",
+            "description": "Uses DeepAI's image generation to visualize images of the one and only. Now with sin[e].",
+            "link": "https://crabb.club/",
+            "image": "https://cdn.discordapp.com/attachments/313820457256353794/853788923616559104/church.png"
+        },
+        {
+            "title": "Prayer Machine 3",
+            "description": "Uses DeepAI's image generation to visualize images of the one and only. Now with sin[e].",
+            "link": "https://crabb.club/",
+            "image": "https://cdn.discordapp.com/attachments/313820457256353794/853788923616559104/church.png"
+        },
+        {
+            "title": "Prayer Machine 4",
+            "description": "Uses DeepAI's image generation to visualize images of the one and only. Now with sin[e].",
+            "link": "https://crabb.club/",
+            "image": "https://cdn.discordapp.com/attachments/313820457256353794/853788923616559104/church.png"
+        }
+    ]
+}
