@@ -1,21 +1,8 @@
 <template>
     <div class="flex-col-center">
-        <h1 class="neon pane title">Welcome</h1>
-        <div class="pane">
-            <p class="neon">I'm Kevin. I make all around creative tech stuff. Check out some of work below. </p>
-            <a href="/art">
-                <h1 class="link-text neon">[ ART ]</h1>
-            </a>
-            <a href="/music">
-                <h1 class="link-text neon">[ MUSIC ]</h1>
-            </a>
-            <a href="/tech">
-                <h1 class="link-text neon">[ TECH ]</h1>
-            </a>
-            <a href="/other">
-                <h1 class="link-text neon">[ OTHER ]</h1>
-            </a>
-        </div>
+        <a href="https://kxvin.com">
+            <img class="crab" src="~assets/crab.png"/>
+        </a>
     </div>
 </template>
 
@@ -27,6 +14,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
+.crab:hover {
+    transform: scale(20.0);
+    transition: 20s ease;
+}
 
 .pane {
     padding: 1.5rem;
